@@ -9,7 +9,7 @@ This is a font that tries to simulate a simple ANSI block style.
 
 ### Desktop
 
-Have a look in the `dist/` folder. Download the font files from there. Install as pero your OS instructions.
+Have a look in the `dist/` folder. Download the font files from there. Install as per your OS instructions.
 
 ### Web
 
